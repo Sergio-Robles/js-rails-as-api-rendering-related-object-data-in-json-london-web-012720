@@ -3,7 +3,7 @@
 ## Learning Goals
 
 - Review Rails generators
-- Render related models as nested JSON data
+- Render related models as nested JSON data   
 
 ## Introduction
 
